@@ -1,12 +1,6 @@
 # </>Mastermind 🐧
 School assignment with Arduino Uno 3
 
-on
-
-Technical University of Košice<br>
-Faculty of Electrical Engineering and Informatics<br>
-Study program: Intelligent Systems<br>
-
 /* Main game functionality is in mastermind.cpp */
 
 # How it's played 🕹️
